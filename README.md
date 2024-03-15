@@ -6,12 +6,18 @@ For the mission to be successful, you need to complete two main quests. The firs
 
 We are using Third Web Unity Package 4.6.4
 
+Play the aplha here:
+https://ethereans.xyz/earn/
+
 
 About the Project:
 
 The Ethereans is an intellectual property launched in 2021 using blockchain technology. This project released 11,000 characters (NFTs) onto the Ethereum blockchain (Mainnet) and has since been developing tools, including a token gated 3D printing platform and, currently, a video game. 
 
-For more information, visit the official site at https://ethereans.xyz/.
+For more information, visit the official links: 
+
+https://ethereans.xyz/.
+https://twitter.com/theEthereans
 
 
                                                                                                     
