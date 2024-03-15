@@ -8,4 +8,6 @@ We are using Third Web Unity Package 4.6.4
 
 
 About the Ethereans:
-The Ethereans is an intellectual property launched in 2021 using blockchain technology. This project released 11,000 characters (NFTs) onto the Ethereum blockchain (Mainnet) and has since been developing tools, including a token gated 3D printing platform and, currently, a video game. For more information, visit the official site at https://ethereans.xyz/.
+The Ethereans is an intellectual property launched in 2021 using blockchain technology. This project released 11,000 characters (NFTs) onto the Ethereum blockchain (Mainnet) and has since been developing tools, including a token gated 3D printing platform and, currently, a video game. 
+
+For more information, visit the official site at https://ethereans.xyz/.
