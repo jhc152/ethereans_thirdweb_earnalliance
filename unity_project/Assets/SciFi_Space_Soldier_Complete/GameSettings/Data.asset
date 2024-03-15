@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef949606b80223d489bab95243fe5125, type: 3}
+  m_Name: Data
+  m_EditorClassIdentifier: 
+  playerName:
+  - Player 1
+  - Player 2
+  - Player 3
+  - Player 4
+  playerCtrlMap:
+  - Horizontal
+  - Vertical
+  - LookX
+  - LookY
+  - FireTrigger
+  - Reload
+  - EquipWeapon
+  - Sprint
+  - Aim
+  - ChangeWTrigger
+  - Roll
+  - Use
+  - Crouch
+  - ChangeWeapon
+  - Throw
+  - Fire
+  - Mouse ScrollWheel
+  useLives: 0
+  livesPerPlayer: 3
+  respawnAfterDeathTimer: 3
+  useSplitScreenForMultiplayer: 0
+  singlePlayerThirdPerson: 0
+  singlePlayerCamera: {fileID: 0}
+  thirdPersonCamera: {fileID: 0}
+  multiplayerCamera: {fileID: 0}
+  useMinimap: 1
+  minimap: {fileID: 0}
+  minimapZoom: 25
+  minimapIcon: {fileID: 0}
+  playerIconScale: 5
+  friendlyAiIconScale: 3
+  friendlyAiIconColor: {r: 0, g: 0, b: 0, a: 0}
+  enemyIconScale: 3
+  enemyIconColor: {r: 0, g: 0, b: 0, a: 0}
+  UnselectedTextColor: {r: 0.2, g: 0.2, b: 0.8, a: 1}
+  SelectedTextColor: {r: 0.3, g: 0.8, b: 0.3, a: 1}
+  TypeSelected: 0
+  availableCharacters: []
+  selectedCharacters: []
+  playersInGame: 
+  finalPlayerCount: 0
+  GameType: 0
+  useSinglePlayerColor: 0
+  singlePlayerColor: {r: 0, g: 0, b: 0, a: 0}
+  useCoopPlayerColor: 0
+  coopPlayerColor: []
+  playerColor: []
+  teamColor: []
+  AlwaysShowPickups: 0
+  ActivePickupColor: {r: 0.2, g: 1, b: 0.2, a: 1}
+  InactivePickupColor: {r: 0.3, g: 0.3, b: 0.3, a: 0.4}
+  showPickupText: 0
+  PickupTextColor: {r: 0.2, g: 1, b: 0.2, a: 1}
