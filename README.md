@@ -18,6 +18,7 @@ For more information, visit the official links:
 
 Website: 
 https://ethereans.xyz/
+
 X: 
 https://twitter.com/theEthereans
 
