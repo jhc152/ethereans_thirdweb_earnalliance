@@ -6,7 +6,7 @@ For the mission to be successful, you need to complete two main quests. The firs
 
 We are using Third Web Unity Package 4.6.4
 
-Play the alpha here:
+Play the alpha here: 
 https://ethereans.xyz/earn/
 
 
@@ -16,7 +16,9 @@ The Ethereans is an intellectual property launched in 2021 using blockchain tech
 
 For more information, visit the official links: 
 
-https://ethereans.xyz/.
+Website: 
+https://ethereans.xyz/
+X: 
 https://twitter.com/theEthereans
 
 
