@@ -6,6 +6,9 @@ For the mission to be successful, you need to complete two main quests. The firs
 
 We are using Third Web Unity Package 4.6.4
 
+Video demo:
+https://youtu.be/eJgaczttEms
+
 Play the alpha here: 
 https://ethereans.xyz/thirdweb_earn/
 
